@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is a page to dump all the data about me.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A student who is interested in Computer Science and Game Designing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[2645366605@qq.com](mailto:2645366605@qq.com)
